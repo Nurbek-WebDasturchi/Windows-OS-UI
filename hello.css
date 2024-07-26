@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(0, 120, 215);
+}
+.css__case {
+    font-family: sans-serif;
+}
+.position {
+    margin-left: 0;
+    padding-left: 0;
+    display: inline-block;
+}
+.div__position {
+    position: relative;
+    left: -500px;
+    bottom: -20px;
+}
+.div__position > p {
+    font-size: 13px;
+}
+.image {
+    position: relative;
+    left: -100px;
+}
